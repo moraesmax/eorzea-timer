@@ -1,0 +1,31 @@
+#eorzea-timers .timers-title {
+    background-color: #0086ab;
+    box-shadow: 3px 3px 0 0 rgba(61, 168, 195, 1);
+    color: #fff;
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 270px;
+}
+#eorzea-timers .timer .title {
+    color: #0086ab;
+    text-align: center;
+    font-weight: bold;
+}
+#eorzea-timers .timer {
+    border-bottom: 1px solid #0086ab;
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    padding: 3px;
+    width: 270px;
+}
+#eorzea-timers .timer .countdown {
+    color: #0086ab;
+    text-align: center;
+}
